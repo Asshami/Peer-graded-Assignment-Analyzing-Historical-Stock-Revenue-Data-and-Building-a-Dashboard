@@ -1,0 +1,2 @@
+# Peer-graded-Assignment-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+Tesla &amp; GameStop Stock and Revenue Analysis Using Python  In this project, I used Python to extract, clean, and visualize historical stock prices and quarterly revenue data for Tesla and GameStop. Using yfinance, I retrieved the stock price data, and with BeautifulSoup, I performed web scraping to collect revenue tables from Yahoo Finance.
